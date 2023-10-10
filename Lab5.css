@@ -1,0 +1,49 @@
+header{
+    color: #327355;
+    font-size: 3vw;
+    text-align: center;
+}
+#flex-container{
+    display: flex;
+    margin: 2vw;
+}
+#flex-item1{
+    display:flex;
+    line-height: 6vw;
+    flex-direction: column;
+    text-align: justify;
+    background-color: #327355;
+    font-size: 2vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: .5vw;
+    padding-right:2.5vw;
+}
+#flex-item2{
+    display:flex;
+    background-color: #327355;
+    margin: 2vw;
+}
+#flex-item3{
+    display:flex;
+    margin: 2vw;
+}
+#flex-item4{
+    display:flex;
+    margin: 2vw;
+}
+#flex-item5{
+    display:flex;
+    margin: 2vw;
+}
+#flex-item6{
+    display:flex;
+    margin: 2vw;
+}
+a,ul{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    
+}
+
